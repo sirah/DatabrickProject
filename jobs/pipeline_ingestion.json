@@ -9,6 +9,15 @@
           "env": "dev"
         }
       }
+    },
+    {
+      "task_key": "affichage",
+      "notebook_task": {
+        "notebook_path": "notebooks/Affichage",
+        "base_parameters": {
+          "env": "dev"
+        }
+      }
     }
   ]
 }
