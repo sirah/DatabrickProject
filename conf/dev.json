@@ -1,1 +1,6 @@
+{
+  "input_path": "/mnt/dev/raw/ventes",
+  "output_path": "/mnt/dev/processed/ventes",
+  "checkpoint_path": "/mnt/dev/checkpoints/ventes"
+}
 
