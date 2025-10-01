@@ -1,6 +1,6 @@
 {
-  "input_path": "/mnt/dev/raw/ventes",
-  "output_path": "/mnt/dev/processed/ventes",
-  "checkpoint_path": "/mnt/dev/checkpoints/ventes"
+  "input_path": "/Volumes/workspace/default/testv/sinistre_flat.parquet",
+  "output_path": "/Volumes/workspace/default/testv/dev/processed/sinistre_out.parquet",
+  "checkpoint_path": "/Volumes/workspace/default/testv/dev/checkpoints/sinistre"
 }
 

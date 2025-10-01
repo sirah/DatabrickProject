@@ -4,7 +4,7 @@
     {
       "task_key": "ingestion",
       "notebook_task": {
-        "notebook_path": "/Repos/my_project/notebooks/main_ingestion",
+        "notebook_path": "notebooks/main_ingestion.py",
         "base_parameters": {
           "env": "dev"
         }

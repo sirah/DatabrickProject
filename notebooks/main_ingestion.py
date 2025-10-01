@@ -1,4 +1,3 @@
-
 import json
 from libs.io_utils import write_delta
 from libs.transformations import clean_sales
@@ -7,7 +6,7 @@ from libs.transformations import clean_sales
 env = dbutils.widgets.get("env")
 
 # Charger la config JSON
-with open(f"/dbfs/FileStore/config/{env}.json") as f:
+with open(f"conf/{env}.json") as f:
     config = json.load(f)
 
 input_path = config["input_path"]
