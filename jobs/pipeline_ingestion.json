@@ -1,1 +1,15 @@
+{
+  "name": "pipeline_ingestion",
+  "tasks": [
+    {
+      "task_key": "ingestion",
+      "notebook_task": {
+        "notebook_path": "/Repos/my_project/notebooks/main_ingestion",
+        "base_parameters": {
+          "env": "dev"
+        }
+      }
+    }
+  ]
+}
 
